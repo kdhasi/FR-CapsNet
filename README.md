@@ -1,6 +1,6 @@
 # FR-CapsNet
 
-Pytorch implementation of the paper "FR-CapsNet: Enhancing Low-Resolution Image Classification via Frequency Routed Capsules." The manuscript is available at XX.
+Pytorch implementation of the paper "FR-CapsNet: Enhancing Low-Resolution Image Classification via Frequency Routed Capsules." The manuscript is available <a href="https://doi.org/10.1109/ACCESS.2025.3583688" target="_blank">here</a>.
 
 ## Prerequisites
 
