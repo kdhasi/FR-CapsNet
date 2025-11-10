@@ -47,3 +47,13 @@ python main.py --dataset=[cifar10] --name=resnet_frequency_routing --epochs=350 
 ## Citation
 
 If you find this work useful, please cite the following paper:
+
+```tex
+@article{dewasurendra2025fr,
+  title={FR-CapsNet: Enhancing Low-Resolution Image Classification via Frequency Routed Capsules},
+  author={Dewasurendra, Hasindu and Yeo, Kunmin and Cao, Nhan Thi and Kim, Taejoon},
+  journal={IEEE Access},
+  year={2025},
+  publisher={IEEE}
+}
+```
